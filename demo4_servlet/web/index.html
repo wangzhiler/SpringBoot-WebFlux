@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script type="text/javascript">
+    //初始化，参数url
+    //依赖H5
+    var sse = new EventSource("SSE");
+    sse.onmessage=function (evt) {
+        console.log("message", evt.data, evt);
+    }
+    sse.addEventListener("yooo", function (evt) {
+        console.log("message yooo--", evt.data);
+        if (evt.data == 3) {
+            sse.close(); //不关闭会自动重连。
+        }
+    })
+</script>
+
+</body>
+</html>

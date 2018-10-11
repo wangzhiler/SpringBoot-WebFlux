@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo1_lambda/demo01_lambda.iml" filepath="$PROJECT_DIR$/demo1_lambda/demo01_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_lambda/demo1_lambda.iml" filepath="$PROJECT_DIR$/demo1_lambda/demo1_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2_stream/demo2_stream.iml" filepath="$PROJECT_DIR$/demo2_stream/demo2_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo3_reactive/demo3_reactive.iml" filepath="$PROJECT_DIR$/demo3_reactive/demo3_reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo4_servlet/demo4_servlet.iml" filepath="$PROJECT_DIR$/demo4_servlet/demo4_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo5_webflux/demo5_webflux.iml" filepath="$PROJECT_DIR$/demo5_webflux/demo5_webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo6_webflux2/demo6_webflux2.iml" filepath="$PROJECT_DIR$/demo6_webflux2/demo6_webflux2.iml" />
+    </modules>
+  </component>
+</project>

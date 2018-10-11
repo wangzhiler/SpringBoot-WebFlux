@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.projectreactor:reactor-test:3.1.9.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/mavenrepository/io/projectreactor/reactor-test/3.1.9.RELEASE/reactor-test-3.1.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mavenrepository/io/projectreactor/reactor-test/3.1.9.RELEASE/reactor-test-3.1.9.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mavenrepository/io/projectreactor/reactor-test/3.1.9.RELEASE/reactor-test-3.1.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
